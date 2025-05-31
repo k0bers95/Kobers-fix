@@ -2550,7 +2550,7 @@ f3x.MouseButton1Click:Connect(function()
 			end
 		end
 	end
-	Sky("124838710237729")
+	Sky("131276472379317")
 end)
 local f3x = Instance.new("TextButton")
 f3x.Size = UDim2.new(0, 90, 0, 40)
@@ -2835,7 +2835,7 @@ f3x.MouseButton1Click:Connect(function()
 			end
 		end 
 	end
-	spam("124838710237729")
+	spam("131276472379317")
 end)
 local f3x = Instance.new("TextButton")
 f3x.Size = UDim2.new(0, 90, 0, 40)
